@@ -1,0 +1,8 @@
+.default__wrapper {
+  display: flex;
+  min-height: 100vh;
+  .main__wrapper {
+    padding: 1rem;
+    flex: 1 1;
+  }
+}
